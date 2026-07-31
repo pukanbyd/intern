@@ -60,7 +60,7 @@ slicer ทั้ง 5 ตัว (ปี ขนาด อุตสาหกรร
 เมื่อแก้ไฟล์ธีม ต้องเปลี่ยน GUID ท้ายชื่อไฟล์ แล้วอัปเดตทั้ง 3 จุดใน
 [report.json](OverviewDashboard.Report/definition/report.json) มิฉะนั้น Desktop จะใช้ธีมเก่าจาก cache
 
-### Model for predicting NPL
+# Model for predicting NPL
 
 Feature Importance
 
